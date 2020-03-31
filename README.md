@@ -4,7 +4,7 @@
 
 
 ###  demo体验 查看效果
-[星搜索](https://github.com/5iux/sou/releases)  
+[星搜索](http://search.xingbuluo.club)  
 
 
 
